@@ -1,0 +1,6 @@
+.DS_Store
+.remember/
+
+# Local agent state. Only the shared settings file is tracked.
+.claude/*
+!.claude/settings.json
